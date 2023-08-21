@@ -1,4 +1,4 @@
-# reviewscrapper
+# Review Scrapper
 
 ## Objective:
 
@@ -10,4 +10,5 @@ The project involves creating a web application using the Flask framework to scr
 2.  Install necessary packages
 3.  Run app.py
 4.  On the main page, input the name of the product you want to find reviews for.
-5.  After submitting the search query, the application scrapes Flipkart's website to gather the reviews for the specified product. The reviews, including product name, rating, comment heading, and comment text, are displayed on a separate page.
+5.  After submitting the search query, the application scrapes Flipkart's website to gather the reviews for the specified product. The reviews, including product 
+    name, rating, comment heading, and comment text, are displayed on a separate page.
